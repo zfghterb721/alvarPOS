@@ -1,0 +1,19 @@
+{
+  "name": "alvarpos",
+  "version": "1.0.0",
+  "description": "A POS I wrote in like a week. Focus in MTG an hobby shop applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfghterb721/alvarPOS.git"
+  },
+  "author": "zfghterb721",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfghterb721/alvarPOS/issues"
+  },
+  "homepage": "https://github.com/zfghterb721/alvarPOS#readme"
+}
